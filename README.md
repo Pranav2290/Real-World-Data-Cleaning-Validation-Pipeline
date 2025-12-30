@@ -55,7 +55,30 @@ After applying structured data cleaning, validation rules, and business logic:
 
 ---
 
+## 📁 Folder Structure
+```
+real-world-data-cleaning-pipeline/
+│
+├── data/
+│   ├── raw_data.csv          # generated messy dataset (optional to save)
+│   └── cleaned_data.csv      # final cleaned dataset
+│
+├── Data_cleaning.ipynb
+│   ├── Created messy data using ChatGPT (50000, 14)
+│   ├── 1) UNDERSTANDING DATA
+│   ├── 2) DATA TYPE FIXING
+│   ├── 3) MISSING VALUE HANDALING
+│   ├── 4) BUSINESS RULES & INVALID VALUE FIXING
+│   ├── 5) DUPLICATES & RECORD INTEGRITY
+│   ├── 6) OUTLIERS (DETECT ▸ DECIDE ▸ TREAT)
+    └── 7) CATEGORICAL CLEANING & FINAL VALIDATION
+│
+├── README.md
+├── Images/
+    ├── 1) cleaned_and_validated.png
+    └── 2) dirty_raw_data.png
 
+```
 
 
 
