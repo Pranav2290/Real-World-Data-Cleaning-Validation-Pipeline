@@ -37,7 +37,7 @@ The raw dataset intentionally contains:
 - Duplicate customer records
 - Missing and misleading values
 
-![Raw Data Snapshot](images/dirty_raw_data.png)
+![Raw Data Snapshot](Images/dirty_raw_data.png)
 
 ---
 
@@ -49,7 +49,7 @@ After applying structured data cleaning, validation rules, and business logic:
 - One record per customer is retained
 - Categorical values are standardized
 
-![Cleaned Data Snapshot](images/cleaned_and_validated.png)
+![Cleaned Data Snapshot](Images/cleaned_and_validated.png)
 
 ---
 
