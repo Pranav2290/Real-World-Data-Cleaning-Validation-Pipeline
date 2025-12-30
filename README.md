@@ -51,9 +51,11 @@ After applying structured data cleaning, validation rules, and business logic:
 
 ![Cleaned Data Snapshot](Images/cleaned_and_validated.png)
 
+📌 These screenshots highlight how real-world messy data can be transformed into an **analysis-ready and trustworthy dataset** using systematic data cleaning techniques.
+
 ---
 
-📌 These screenshots highlight how real-world messy data can be transformed into an **analysis-ready and trustworthy dataset** using systematic data cleaning techniques.
+
 
 
 
